@@ -1,2 +1,0 @@
-# JavaScript
-written by kareena
